@@ -1,2 +1,3 @@
-# scam-collection
-诈骗合集
+# 诈骗合集
+
+👉🏻 [discussions](https://github.com/lixingjuan/scam-collection/discussions)
